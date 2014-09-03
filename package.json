@@ -1,0 +1,36 @@
+{
+  "name": "hubot-qr",
+  "description": "Turn any URL into a QR Code",
+  "version": "0.0.1",
+  "author": "John Hamelink <john@farmer.io>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnhamelink/hubot-qr.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/johnhamelink/hubot-qr/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": { }
+}

@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/johnhamelink/hubot-qr.git"
+    "url": "git://github.com/hubot-scripts/hubot-qr.git"
   },
 
   "bugs": {
-    "url": "https://github.com/johnhamelink/hubot-qr/issues"
+    "url": "https://github.com/hubot-scripts/hubot-qr/issues"
   },
 
   "dependencies": {
